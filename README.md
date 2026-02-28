@@ -1,3 +1,6 @@
+
+# 🚀 Laravel + Docker Setup Guide
+
 /var/www/project/
 │
 ├── docker-compose.yml
@@ -5,11 +8,11 @@
 │
 └── src/   (Laravel project)
 
-🟢 STEP 1 — Project Folder Banao
+## 🟢 STEP 1 — Project Folder Banao
 sudo mkdir -p /var/www/project
 cd /var/www/project
 
-🟢 STEP 2 — Laravel Project Clone karo
+##  🟢 STEP 2 — Laravel Project Clone karo
 git clone https://github.com/soft84ya/Laravel-portfolio.git src
 
 🟢 STEP 3 — Dockerfile Create karo
